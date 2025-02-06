@@ -28,3 +28,32 @@ h2 {
     color: #660033;
 
 }
+
+.introduction {
+    padding: 15px;
+    border-radius: 5px;
+    color: ;
+    text-align: left;
+}
+
+.education {
+    padding: 15px;
+    border-radius: 5px;
+    color: #660033;
+    text-align: left;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+ul {
+    padding-left: 40px;
+    font-size: 1.2 em;
+    line-height: 1.5;
+}
+
+ul li{
+    margin: 10px 0;
+}
